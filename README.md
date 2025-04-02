@@ -19,7 +19,7 @@ The application provides the following key features:
 - 📌 **List all expenses**: View all stored expenses.
 - 📌 **Filter expenses:**:
     - By type (e.g., filter only "gas" expenses).
-    -By value (e.g., filter expenses greater than a specific amount).
+    - By value (e.g., filter expenses greater than a specific amount).
 - 📌 **Calculate total expenses by type**: Sum up all expenses of a specific category.
 - 📌 **Statistics & Summaries**: Retrieve financial insights by computing total expenses for specific categories
   
